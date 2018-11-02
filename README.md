@@ -9,5 +9,5 @@
 - `java kakutou.Kakutou`
 
 ## 素材
-音楽: https://maoudamashii.jokersounds.com/
-画像: フリー素材
+- 音楽: https://maoudamashii.jokersounds.com/
+- 画像: フリー素材
